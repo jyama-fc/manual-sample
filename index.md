@@ -26,3 +26,7 @@
   <img src="menu_phots/デザート01.jpeg" width="45%">
   <img src="menu_phots/デザート01.jpeg" width="45%">
 </p>
+
+## メニュー写真サンプル
+
+![デザート01](menu_phots/デザート01.jpeg)
