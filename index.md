@@ -20,3 +20,9 @@
 
 ## ▼ PDFサンプル（後で差し替え可能）
 ※ ここに PDF を置くことができます
+
+## メニュー写真一覧
+<p>
+  <img src="menu_phots/デザート00.jpeg" width="45%">
+  <img src="menu_phots/デザート01.jpeg" width="45%">
+</p>
