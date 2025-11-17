@@ -14,7 +14,7 @@
 ---
 
 ## ▼ 動画サンプル（URL例）
-https://youtu.be/xxxxxxxxxxx
+[サンプル動画](https://youtu.be/qpsSO47c8Nc)
 
 ---
 
